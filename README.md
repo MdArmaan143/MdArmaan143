@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **armaanshaikhh786@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😅**
+- ⚡ Fun fact **I have sharingan 😎**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
