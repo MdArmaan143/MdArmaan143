@@ -1,4 +1,4 @@
-![logo](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
+
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Armaan_Shaikh</h1>
